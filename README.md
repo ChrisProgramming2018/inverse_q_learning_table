@@ -16,3 +16,6 @@ To install requirements:
 ```setup
 conda env create -f environment.yml
 ```
+```
+conda activate inverse_rl
+```
