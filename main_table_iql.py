@@ -19,7 +19,7 @@ def main(args):
     #continue_iql = False
     param["locexp"] = args.locexp
     env = gym.make(param["env_name"])
-    if param["env_name"] == "Taxi-v2":
+    if param["env_name"] == "Taxi-v3":
         state_space = env.observation_space.n
         action_space = env.action_space.n
     else:

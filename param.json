@@ -1,5 +1,5 @@
 {
-  "env_name": "Taxi-v2",
+  "env_name": "Taxi-v3",
   "lr":0.7,
   "gamma":0.618,
   "decay":0.01,
