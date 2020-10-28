@@ -1,0 +1,4 @@
+name: inverse_rl
+channels:
+  - defaults
+prefix: /home/architect/anaconda3/envs/inverse_rl
